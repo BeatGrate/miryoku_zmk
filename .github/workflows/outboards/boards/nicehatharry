@@ -3,4 +3,4 @@
 
 outboard_repository=davidphilipbarr/nicehatharry
 outboard_ref=main
-outboard_to=boards/shields/nicehatharry
+outboard_to=boards/boards/nicehatharry
