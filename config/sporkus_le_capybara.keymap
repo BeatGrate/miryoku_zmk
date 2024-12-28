@@ -4,3 +4,7 @@
 #include "../miryoku/custom_config.h"
 #include "../miryoku/mapping/34/ferris.h"
 #include "../miryoku/miryoku.dtsi"
+#include "../miryoku/miryoku_kludge_mousekeyspr.dtsi"
+#include "../miryoku/miryoku_kludge_mousekeyspr.h"
+#include "../miryoku/miryoku_mousekeys.dtsi"
+#include "../miryoku/miryoku_mousekeys.h"
