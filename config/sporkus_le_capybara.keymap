@@ -4,3 +4,5 @@
 #include "../miryoku/custom_config.h"
 #include "../miryoku/mapping/34/ferris.h"
 #include "../miryoku/miryoku.dtsi"
+
+sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
