@@ -1,0 +1,7 @@
+# Copyright 2024 Manna Harbour
+# https://github.com/manna-harbour/miryoku
+
+outboard_repository=hydragyrum32/zmk-config-vault-katana
+outboard_ref=main
+outboard_from=boards/arm/vault_katana_stm32
+outboard_to=boards/arm/vault_katana_stm32
