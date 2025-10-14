@@ -2,5 +2,5 @@
 // https://github.com/manna-harbour/miryoku
 
 #include "../miryoku/custom_config.h"
-#include "../miryoku/mapping/39/vault_katana.h"
+#include "../miryoku/mapping/39/vault35_wkl_ortho.h"
 #include "../miryoku/miryoku.dtsi"
