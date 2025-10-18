@@ -1,7 +1,7 @@
 // Copyright 2022 Manna Harbour
 // https://github.com/manna-harbour/miryoku
 
-#if !defined (MIRYOKU_LAYOUTMAPPING_REVIUNG39)
+#if !defined (MIRYOKU_LAYOUTMAPPING_VAULT_KATANA)
 
 #define XXX &none
 
@@ -18,4 +18,4 @@ K32  K20  K21  K22  K23  K24       K25  K26  K27  K28  K29  XXX \
 
 #endif
 
-#define MIRYOKU_MAPPING MIRYOKU_LAYOUTMAPPING_REVIUNG39
+#define MIRYOKU_MAPPING MIRYOKU_LAYOUTMAPPING_VAULT_KATANA
